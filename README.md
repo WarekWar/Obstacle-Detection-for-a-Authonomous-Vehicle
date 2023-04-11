@@ -1,5 +1,5 @@
 # Obstacle-Detection-for-a-Authonomous-Vehicle
-The aim of this work is to simulate the system of obstacle detection in autonomous vehicle. 
+The aim of this work was to simulate the system of obstacle detection in autonomous vehicle. 
 
 The priciples were following:
 - A vehicle moves with constant speed
@@ -8,4 +8,5 @@ The priciples were following:
 - The distance between the vehicle and the obbstacle is calculated
 - The distance is compared to the braking distance
 - Depending on a result, user receives information
+
 
